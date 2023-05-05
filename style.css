@@ -115,7 +115,7 @@ body{
 #hero{
     height: 90vh;
     width: 100%;
-    background-image: url("images/im33.jpg");
+    background-image: url("im33.jpg");
     background-size: cover;
     background-position: right 0%;
     padding: 0 50px;
@@ -263,7 +263,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("images/im34.jpg");
+    background-image: url("im34.jpg");
     min-width: 550px;
     height: 60vh;
     background-size: cover;
@@ -274,7 +274,7 @@ body{
 }
 
 #sm-banner .banner-box2{
-    background-image: url("images/im35.jpg");
+    background-image: url("im35.jpg");
 }
 
 #sm-banner h4{
@@ -325,7 +325,7 @@ button.white{
     justify-content: center;
     align-items: flex-start;
     text-align: center;
-    background-image: url("images/im36.jpg");
+    background-image: url("im36.jpg");
     min-width: 30%;
     height: 40vh;
     background-size: cover;
@@ -337,12 +337,12 @@ button.white{
 }
 
 #banner3 .banner-box2{
-    background-image: url("images/im37.jpg");
+    background-image: url("im37.jpg");
     align-items: flex-end;
 }
 
 #banner3 .banner-box3{
-    background-image: url("images/im38.jpg");
+    background-image: url("im38.jpg");
     align-items: flex-start;
 }
 
@@ -363,7 +363,7 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("images/im39.jpg");
+    background-image: url("im39.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: 100%;
@@ -463,7 +463,7 @@ footer .copyright{
 
 /*SHOP PAGE*/
 #page-h{
-    background-image: url("images/im40.jpg");
+    background-image: url("im40.jpg");
     background-repeat: no-repeat;
     width: 100%;
     height: 60vh;
@@ -549,7 +549,7 @@ footer .copyright{
 
 /* BLOG PAGE*/
 #page-h.blog-h{
-    background-image: url("images/im32.jpg");
+    background-image: url("im32.jpg");
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -608,7 +608,7 @@ footer .copyright{
 
 /*about page*/
 #page-h.about-h{
-    background-image: url("images/im41.jpg");
+    background-image: url("im41.jpg");
     width: 100%;
     height: 300px;
 }
@@ -791,13 +791,6 @@ p {
     font-size: 13px;
 }
 
-
-
-
-
-
-
-
 /* Media */
 @media (max-width: 850px) {
     .section-p1{
@@ -900,14 +893,7 @@ p {
     }
 }
 
-
-
-
-
-
-
-
-
+/*media queries*/
 @media (max-width: 500px) {
     .section-p1 {
         padding: 20px;
